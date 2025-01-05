@@ -15,4 +15,8 @@ Started building a descriptive page for myself
   var colorvar = blue
 var myvar = "Hello,World";
 ```
+#
+- [ ] turn on GitHub Pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
 
